@@ -1,2 +1,3 @@
 # Python_crash_course
-This is a coursework for Python 3: Project-based Python, Algorithms, Data Structures (Udemy)
+Lecture notes for Python 3: Project-based Python, Algorithms, Data Structures
+https://www.udemy.com/course/python-programming-algorithms-data-structures/
