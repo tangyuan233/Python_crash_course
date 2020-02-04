@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "yelp",
+            "dialect": "MySQL",
+            "name": "localhost",
+            "password": "1618",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
+    "python.pythonPath": "E:\\Anaconda3\\python.exe"
+}
